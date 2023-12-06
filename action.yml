@@ -1,5 +1,5 @@
 name: '"AWS CodeBuild run build" Action For GitHub Actions - self hosted'
-description: 'Execute CodeBuild::startBuild for the current repo.'
+description: 'Execute CodeBuild::startBuild for the current repo from self hosted runners'
 branding:
   icon: 'cloud'
   color: 'orange'
